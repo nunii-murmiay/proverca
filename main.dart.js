@@ -26901,7 +26901,7 @@ a5H:function a5H(a,b){this.a=a
 this.b=b},
 a5F:function a5F(a){this.a=a},
 a5E:function a5E(){},
-baU(a,b){var s,r=A.b0_("https://chubby-humans-trade.loca.lt/api",B.Hr,A.ah(["Content-Type","application/json"],t.N,t.z),B.Hx,new A.aJE()),q=new A.Q8(A.b([B.EG],t.i6))
+baU(a,b){var s,r=A.b0_("https://ordinary-moose-12.loca.lt/api",B.Hr,A.ah(["Content-Type","application/json"],t.N,t.z),B.Hx,new A.aJE()),q=new A.Q8(A.b([B.EG],t.i6))
 q.O(q,B.Mq)
 s=new A.OO($,q,$,new A.ac6(51200),!1)
 s.a0b$=r
